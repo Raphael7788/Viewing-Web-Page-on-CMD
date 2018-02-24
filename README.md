@@ -1,5 +1,5 @@
 # Viewing-Web-Page-on-CMD
-Just a simple Python after all
+Just a simple Python after all, using Python 3.6.4, hence the it will be different if you use other Python version. It's a simple code after all.
 
 This is only a simple code of Python for you to try, to view 1 web page on CMD. I guess, anyone can do it, hence I mentioned "just a simple Python after all".
 
