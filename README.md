@@ -1,7 +1,7 @@
 # Viewing-Web-Page-on-CMD
 Just a simple Python after all
 
-This is only a simple code of Python for you to try, to view 1 we page on CMD. I guess, anyone can do it, hence I mentioned "just a simple Python after all".
+This is only a simple code of Python for you to try, to view 1 web page on CMD. I guess, anyone can do it, hence I mentioned "just a simple Python after all".
 
 RUSSIAN:
 Это всего лишь простой код Python, который вы можете попробовать, чтобы просмотреть 1 страницу на CMD. Думаю, любой может это сделать, поэтому я упомянул «просто простой Python».
